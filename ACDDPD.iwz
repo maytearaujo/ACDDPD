@@ -1,0 +1,390 @@
+
+[InstallShield Wizard]
+iDate=1
+iTime=1
+Flag=0
+ISX.EXE Size=679936
+ISX.EXE Date=11:21:52  8/4/1999
+ISX.EXE Ver=2.1.2.62
+SETUP.EXE Size=45312
+SETUP.EXE Date=9:12:24  23/3/1999
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=81342
+SETUP.INS Date=11:26:40  8/4/1999
+SETUP.INS Ver=Not available
+_INST16.EX_ Size=81342
+_INST16.EX_ Date=11:26:40  8/4/1999
+_INST16.EX_ Ver=Not available
+_INST32I.EX_ Size=294079
+_INST32I.EX_ Date=9:12:22  23/3/1999
+_INST32I.EX_ Ver=Not available
+ISDEPEND.INI Size=6857
+ISDEPEND.INI Date=13:24:36  27/12/1999
+ISDEPEND.INI Ver=Not available
+SWDEPEND.INI Size=9711
+SWDEPEND.INI Date=13:24:40  27/12/1999
+SWDEPEND.INI Ver=Not available
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=9:12:24  23/3/1999
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=9:12:24  23/3/1999
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=9:12:24  23/3/1999
+PACKLIST.EXE Ver=3.00.060
+Version=2.12
+DevTool=Borland C++Builder 5
+Platform=Win32
+DisksBuilt=1
+DisksDir=ACDDPD\120MB\
+TabsVisit=111111111
+LangNum=0
+LangDir=
+
+[VisualDesign]
+AppName=ACDDPD
+AppExe=[Program Files]\Associacao.exe
+AppExeFile=
+Version=1.0
+Company=Associação
+Title=Sistema de Cadastro de Sócio
+TitleType=1
+BackgrndBmp=
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=5
+Uninstall=1
+UninstallChecked=1
+Silent=1
+SmsMode=0
+
+[Types]
+Types=1
+Type1Components=1
+Type1Name=Complete
+Type1ComponentList=1 
+
+[Components]
+Components=1
+Component1Groups=4
+Component1Name=Application Files
+Component1Description=Application files needed to run the application
+Component1GroupList=1 2 3 4 
+
+[Groups]
+Groups=4
+Group1Size=6152143
+Group1Files=23
+Group1Name=Program Files
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\TeleMarketing.PX
+Group1File2=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\AJUDA.HLP
+Group1File3=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Ajuda.cnt
+Group1File4=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Associacao.exe
+Group1File5=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Atividade.db
+Group1File6=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Atividade.PX
+Group1File7=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\BORLNDMM.DLL
+Group1File8=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Brasil.bmp
+Group1File9=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\cadeirante.ico
+Group1File10=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\CC3250MT.DLL
+Group1File11=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Doacao.db
+Group1File12=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Doacao.PX
+Group1File13=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\DoacaoTeleMarketing.db
+Group1File14=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\DoacaoTeleMarketing.PX
+Group1File15=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Historico.db
+Group1File16=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Historico.PX
+Group1File17=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Licensa.txt
+Group1File18=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Logotipo.bmp
+Group1File19=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Servico.db
+Group1File20=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Servico.PX
+Group1File21=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Socio.db
+Group1File22=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Socio.PX
+Group1File23=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\TeleMarketing.db
+Group2Size=12262905
+Group2Files=51
+Group2Auto=101
+Group2ID=39001
+Group2Name=BDE/IDAPI Files
+Group2Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group2Update=-1
+Group2TargetOS=-1
+Group2File1=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDAPI32.DLL
+Group2File1Auto=101
+Group2File2=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDR20009.DLL
+Group2File2Auto=101
+Group2File3=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BLW32.DLL
+Group2File3Auto=101
+Group2File4=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BDEADMIN.EXE
+Group2File4Auto=101
+Group2File5=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BDEADMIN.HLP
+Group2File5Auto=101
+Group2File6=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BDEADMIN.CNT
+Group2File6Auto=101
+Group2File7=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BDEADMIN.TOC
+Group2File7Auto=101
+Group2File8=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\DATAPUMP.HLP
+Group2File8Auto=101
+Group2File9=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\DATAPUMP.CNT
+Group2File9Auto=101
+Group2File10=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDDR32.DLL
+Group2File10Auto=101
+Group2File11=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDPDX32.DLL
+Group2File11Auto=101
+Group2File12=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDSQL32.DLL
+Group2File12Auto=101
+Group2File13=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDBAT32.DLL
+Group2File13Auto=101
+Group2File14=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDQBE32.DLL
+Group2File14Auto=101
+Group2File15=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDDBAS32.DLL
+Group2File15Auto=101
+Group2File16=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDASCI32.DLL
+Group2File16Auto=101
+Group2File17=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDODBC32.DLL
+Group2File17Auto=101
+Group2File18=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDDAO32.DLL
+Group2File18Auto=101
+Group2File19=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\IDDA3532.DLL
+Group2File19Auto=101
+Group2File20=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\IDAPINST.DLL
+Group2File20Auto=101
+Group2File21=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\BANTAM.DLL
+Group2File21Auto=101
+Group2File22=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\USA.BTL
+Group2File22Auto=101
+Group2File23=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\EUROPE.BTL
+Group2File23Auto=101
+Group2File24=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\CEEUROPE.BTL
+Group2File24Auto=101
+Group2File25=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\JAPAN.BTL
+Group2File25Auto=101
+Group2File26=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\OTHER.BTL
+Group2File26Auto=101
+Group2File27=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\FAREAST.BTL
+Group2File27Auto=101
+Group2File28=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\CHARSET.CVB
+Group2File28Auto=101
+Group2File29=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlmss32.dll
+Group2File29Auto=102
+Group2File30=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_MSS.CNF
+Group2File30Auto=102
+Group2File31=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlsyb32.dll
+Group2File31Auto=102
+Group2File32=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_SYB.CNF
+Group2File32Auto=102
+Group2File33=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlint32.dll
+Group2File33Auto=102
+Group2File34=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_INT.CNF
+Group2File34Auto=102
+Group2File35=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlora32.dll
+Group2File35Auto=102
+Group2File36=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_ORA.CNF
+Group2File36Auto=102
+Group2File37=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlora8.dll
+Group2File37Auto=102
+Group2File38=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_ORA8.CNF
+Group2File38Auto=102
+Group2File39=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlinf32.dll
+Group2File39Auto=102
+Group2File40=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_INF.CNF
+Group2File40Auto=102
+Group2File41=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlinf9.dll
+Group2File41Auto=102
+Group2File42=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_INF9.CNF
+Group2File42Auto=102
+Group2File43=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqldb232.dll
+Group2File43Auto=102
+Group2File44=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_DB2.CNF
+Group2File44Auto=102
+Group2File45=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqlssc32.dll
+Group2File45Auto=102
+Group2File46=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\SQL_SSC.CNF
+Group2File46Auto=102
+Group2File47=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\sqldb2v5.dll
+Group2File47Auto=102
+Group2File48=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\sql_DBv5.CNF
+Group2File48Auto=102
+Group2File49=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\SQLLNK32.HLP
+Group2File49Auto=102
+Group2File50=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\SQLLNK32.CNT
+Group2File50Auto=102
+Group2File51=C:\Arquivos de programas\Arquivos comuns\Borland Shared\BDE\SQLLNK32.TOC
+Group2File51Auto=102
+Group3Size=6080
+Group3Files=1
+Group3Auto=98
+Group3ID=38998
+Group3Name=BDE/IDAPI CNF File
+Group3Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group3Update=-1
+Group3TargetOS=-1
+Group3File1=C:\Arquivos de programas\InstallShield\InstallShield Express for C++Builder 5\redist\IDAPI.CNF
+Group3File1Auto=98
+Group4Size=5629952
+Group4Files=15
+Group4Auto=58
+Group4ID=38958
+Group4Name=System Files - WinSysDir
+Group4Dir=<WINSYSDIR>
+Group4Update=-1
+Group4TargetOS=-1
+Group4File1=C:\WINDOWS\system32\BDEADMIN.CPL
+Group4File1Auto=58
+Group4File2=C:\WINDOWS\system32\VCL50.BPL
+Group4File2Auto=50
+Group4File3=C:\WINDOWS\system32\VCLDB50.BPL
+Group4File3Auto=51
+Group4File4=C:\WINDOWS\system32\INET50.BPL
+Group4File4Auto=52
+Group4File5=C:\WINDOWS\system32\Inetdb50.bpl
+Group4File5Auto=52
+Group4File6=C:\WINDOWS\system32\NMFAST50.BPL
+Group4File6Auto=53
+Group4File7=C:\WINDOWS\system32\VCLX50.BPL
+Group4File7Auto=53
+Group4File8=C:\WINDOWS\system32\DSS50.BPL
+Group4File8Auto=54
+Group4File9=C:\WINDOWS\system32\TEE50.BPL
+Group4File9Auto=54
+Group4File10=C:\WINDOWS\system32\TEEDB50.BPL
+Group4File10Auto=54
+Group4File11=C:\WINDOWS\system32\TEEQR50.BPL
+Group4File11Auto=54
+Group4File12=C:\WINDOWS\system32\TEEUI50.BPL
+Group4File12Auto=54
+Group4File13=C:\WINDOWS\system32\QRPT50.BPL
+Group4File13Auto=56
+Group4File14=C:\Arquivos de programas\Borland\CBuilder5\BIN\BCBSMP50.BPL
+Group4File14Auto=57
+Group4File15=C:\WINDOWS\system32\VCLBDE50.BPL
+Group4File15Auto=58
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\ACDDPD
+DatabaseLocationDir=<INSTALLDIR>\data
+SelectProgramFolderName=ACDDPD
+LicenseAgreement=1
+LicenseAgreementFile=C:\Documents and Settings\Família\Meus documentos\Maytê\Associacao\Licensa.txt
+UserInformation=1
+DestinationLocation=1
+BeginFileTransfer=1
+ProgressBar=1
+SetupComplete=1
+SetupCompleteExec=[Program Files]\Associacao.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Regs=6
+
+[Registry]
+
+[Icons]
+Icons=1
+Icon1Param=
+Icon1Cmd=[Program Files]\Associacao.exe
+Icon1Description=Associacao
+Icon1WorkingDir=[Program Files]
+Icon1IconFile=
+Icon1RealFile=C:\Documents and Settings\Família\Meus documentos\Maytê\Maytê\Associacao\Associacao.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+
+[SQL Link Drivers]
+Driver1=Microsoft SQL Server Ent
+Driver2=Sybase (DB-Lib) Ent
+Driver3=Interbase Pro Ent
+Driver4=Oracle7 Ent
+Driver5=Oracle8 Ent
+Driver6=Informix7 Ent
+Driver7=Informix9 Ent
+Driver8=DB2 Ent
+Driver9=Sybase (CT-Lib) Ent
+Driver10=DB2 Version 5.0 Ent
+Driver11=SQL Links Help Ent
+Drivers=11
+DrvUsed=11111111111
+DrvHave=11
+
+[IDAPI Alias]
+Alias1=ACDDPD
+Alias1Path=[Program Files]\
+Alias1Type=DB2
+Aliases=1
+SaveCfg=0
+
+[IDAPI Alias ACDDPD]
+
+
+
+
+
+
+
+
+
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=
+DestinationPath=
+DestinationPathOneFile=
+Password=
+
+[ISObjectIDs]
+nTotal=11
+ID1=101
+ID2=102
+ID3=58
+ID4=50
+ID5=51
+ID6=52
+ID7=53
+ID8=54
+ID9=55
+ID10=56
+ID11=57
+
+[Uninstall]
+UserUninstall=0

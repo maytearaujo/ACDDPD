@@ -1,0 +1,33 @@
+:Base ./Ajuda.hlp>main
+:Title Arquivo de Ajuda
+1 Conteúdo de Ajuda=Conteudo
+1 Configuração=Configuracao
+1 Instalação=Instalacao
+1 Tela Inicial=TelaInicial
+1 Aparência=Aparencia
+1 Copia de Segurança=Seguranca
+1 Sair=Sair
+1 Cadastrar Sócio Pessoa Física=CadastrarPessoaFisica
+1 Cadastrar Sócio Pessoa Jurídica=CadastrarPessoaJuridica
+1 Consultar Sócio=ConsultarSocio
+1 Atualizar Sócio=AtualizarSocio
+1 Excluir Sócio=ExcluirSocio
+1 Cadastrar Histórico=CadastrarHistorico
+1 Consultar Histórico=ConsultarHistorico
+1 Atualizar Histórico=AtualizarHistorico
+1 Excluir Histórico=ExcluirHistorico
+1 Cadastrar Doação=CadastrarDoacao
+1 Consultar Doação=ConsultarDoacao
+1 Atualizar Doação=AtualizarDoacao
+1 Excluir Doação=ExcluirDoacao
+1 Cadastrar Atividade=CadastrarAtividade
+1 Consultar Atividade=ConsultarAtividade
+1 Atualizar Atividade=AtualizarAtividade
+1 Excluir Atividade=ExcluirAtividade
+1 Cadastrar Serviço=CadastrarServico
+1 Consultar Serviço=ConsultarServico
+1 Atualizar Serviço=AtualizarServico
+1 Excluir Serviço=ExcluirServico
+1 Relatórios=Relatorios
+1 Ajuda=Ajuda
+1 Sobre=Sobre

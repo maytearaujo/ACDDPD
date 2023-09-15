@@ -1,0 +1,31 @@
+======================================================================
+        						
+	Aplicativo de Cadastro de Sócios - ACDDPD	
+							
+	Associação Cubatense de Defesa dos Direitos	
+		das Pessoas Deficientes.		
+	      						
+	Desenvolvedor: Maytê Araujo de Sousa.
+							
+======================================================================
+
+
+LICENÇA DE USO:
+===============
+
+O uso deste software está vinculado às seguintes condições:
+
+- Não vender, alugar ou distribuir o programa através de qualquer meio.
+- O uso do conteúdo do programa para fins comerciais, ou a distribuição
+  de seu conteúdo exige autorização por escrito dos autores.
+- Quaisquer danos que esse programa possa vir a causar a máquina e ou a softwares,
+  ainda que improváveis, são de única e exclusiva responsabilidade do usuário. 
+
+
+Atenção:
+	Ao instalar o programa em seu computador, você estará concordando
+com todos os itens desta licença. Caso não concorde, cancele a instalação agora.
+                       
+
+Qualquer dúvida nos comunique pelo:
+E-mail: acddpd@uol.com.br
